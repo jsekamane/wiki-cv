@@ -45,3 +45,4 @@ Comparing the first figure with the last, we see how it is possible to decompres
 * _"Editor X was one of two main editors responsible for the **Andha Naal** article earning a **Good Article** grade, up from a C-class grade."_
 * _"Editor Y was the main editor helping the **Andha Naal** article pass external in-depth validation that earned it the **Feature Article** grade after having received the Good Article grade three years earlier."_
 
+See [similar figures](sample.md) for other Wikipedia articles.

@@ -2,3 +2,6 @@
 _old/*
 wikiwho_wrapper/*
 */__pycache__/*
+data/Talk/*
+data/ts/*
+data/wp1_openzim/*
